@@ -71,10 +71,6 @@ def tag_relation_score(b_list_tag_all, m_list_tag_all): #傳入b_基準 與 m_�
 ```
 
 
-```python
-
-```
-
 
 ```python
 #m_xml_file_path = '/home/user/Jupyter/m_xml_file_zero/' # 0%雜訊
