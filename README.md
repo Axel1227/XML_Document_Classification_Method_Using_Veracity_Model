@@ -15,6 +15,10 @@
 
 ![Image](https://github.com/Axel1227/XML-Document-Classification-Method-Using-Veracity-Model/blob/main/img/Architecture.png)
 
+環境架設請參考：Hadoop_Yanr_Spack
+
+https://github.com/Axel1227/Hadoop_Yanr_Spack
+
 ---
 
 ### 運作流程
